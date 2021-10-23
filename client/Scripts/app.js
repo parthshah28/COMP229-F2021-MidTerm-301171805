@@ -1,4 +1,9 @@
-/* custom JS goes here */
+/**
+* @author Parth Shah
+* @studentID 301171805
+* @date September 22, 2021
+* @description Mid term project
+*/
 
 /* pagination code from http://www.bootply.com/lxa0FF9yhw */
 $.fn.pageMe = function(opts){
